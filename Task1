@@ -2,7 +2,6 @@
 int main() {
     using namespace std;
     int predel,user_number = 0,all = 0,i = 0,maxint = 0;
-    int predel,user_number,all = 0,i = 0,maxint;
     FILE *f1, *f2;
 
     f1=fopen("predel.txt","r");
